@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.2.3
+* Check if sudo resources exist or not when managing sudo
+
 ## 2.2.2
 * Copy ldlinux.c32 PXELinux 6 file on Debian 8/Jessie (#10255)
 * Change tftp_servername parameter default to undef (#9896)
